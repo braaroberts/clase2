@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase 2</string>
+    <string name="nombre">Ingrese su nombre:</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="dni">DNI</string>
+    <string name="sexo">Sexo</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+</resources>
